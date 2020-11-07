@@ -3,7 +3,7 @@
 This repository contains example projects created while learning Next js. These are not production ready & only serve as reference. Please feel free to contribute.
 
 
-### Projects ⚓️
+### Learning Resources ⚓️
 
 1. [Next Js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - [code](https://github.com/kanadkat-asp/learn-nextjs/tree/master/01-nextjs-handbook)
 2. [Next Js CrashCourse](https://youtu.be/IkOVe40Sy0U) - [code](https://github.com/kanadkat-asp/learn-nextjs/tree/master/02-nextjs-crashcourse)
